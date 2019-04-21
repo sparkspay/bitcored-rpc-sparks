@@ -1,7 +1,7 @@
 {
   "name": "bitcored-rpc-sparks",
   "description": "sparks Client Library to connect to sparks Core (sparksd) via RPC",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
